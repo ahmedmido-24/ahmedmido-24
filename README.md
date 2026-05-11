@@ -49,7 +49,13 @@
 
 ### Frontend Development
 
-<div align="center">
+<div align="center" style="
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+" >
 
 <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
