@@ -2,8 +2,7 @@
 
 # 👋 Hi there! I'm Ahmed ElRefaei
 
-/*![Waving](https://media.giphy.com/media/hvRJCLFzcasrMEeSvH/giphy.gif)
-*\
+
 ## 💻 Frontend & Backend Developer | MERN Stack Enthusiast
 ## ☕ Building clean code with creativity & performance in mind
 
