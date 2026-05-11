@@ -2,8 +2,8 @@
 
 # 👋 Hi there! I'm Ahmed ElRefaei
 
-![Waving](https://media.giphy.com/media/hvRJCLFzcasrMEeSvH/giphy.gif)
-
+/*![Waving](https://media.giphy.com/media/hvRJCLFzcasrMEeSvH/giphy.gif)
+*\
 ## 💻 Frontend & Backend Developer | MERN Stack Enthusiast
 ## ☕ Building clean code with creativity & performance in mind
 
@@ -142,25 +142,3 @@
 > "Code is poetry. It's not just about making things work—it's about making them work beautifully."
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmido-24&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/ahmedmido-24)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmido-24&theme=radical&layout=compact&hide_border=true)](https://github.com/ahmedmido-24)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎉 Thanks for Visiting!
-
-⭐ Star my repos if you find them useful!
-
-Made with ❤️ by Ahmed ElRefaei
-
-</div>
